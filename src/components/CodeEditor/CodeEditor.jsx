@@ -4,14 +4,16 @@ import {andromeda} from '@uiw/codemirror-theme-andromeda';
 
 import React from 'react'
 
-const CodeEditor = ({language,darkMode}) => {
+const CodeEditor = ({language,code, setCode,darkMode,extension}) => {
   return (
     <div className='border border-gray-500'>
         <h2 className='text-center bg-gray-300'>{language}</h2>
         <CodeMirror 
-        language={language}
+        value={code}
         height='220px' 
+        extensions={[extension]}
         theme={darkMode ? andromeda : bbedit}
+        onChange={(value)=>setCode(value)}
         className='cm-editor text-sm focus:outline-none'
         ></CodeMirror> 
     </div>
