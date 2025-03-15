@@ -1,12 +1,10 @@
-# React + Vite
+# HTML, CSS and JavaScript Online code editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Greetings, traveller!
+Within is found a most wondrous tool, hammered into existence in the sacred flames of React, the mighty JavaScript framework, and sheathed in the beauty of Tailwind. Observe, a scriptorium most grand, wherein HTML, CSS, and JavaScript does meet in joyful harmony, allowing scribes and codemasters equally to weave their cyber spells with ease and aplomb.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏆 Most Respected Features
+✅ Live Scrying – As thou dost write, so shall it appear anon.
+✅ Dark and Light Aesthetics – Toggle 'twixt the abyssal night and the golden dawn.
+✅ Threefold Codex – Each language occupies its own chamber: HTML, CSS, and JavaScript.
+✅ A Most Sacred Button – One might click it, and behold! A single piece of parchment shall be created, carrying all thy words in one.
