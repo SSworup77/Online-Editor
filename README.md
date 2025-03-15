@@ -9,5 +9,5 @@ Within is found a most wondrous tool, hammered into existence in the sacred flam
   <li>Live Scrying – As thou dost write, so shall it appear anon.</li>
   <li>Dark and Light Aesthetics – Toggle 'twixt the abyssal night and the golden dawn.</li>
   <li>Threefold Codex – Each language occupies its own chamber: HTML, CSS, and JavaScript.</li>
-  <li>A Most Sacred Button – One might click it, and behold! A single piece of parchment shall be created, carrying all thy words in one.</li>
+  <li>A Most Sacred Button – One might click the "Download" button, and behold! A single piece of parchment shall be created, carrying all thy words in one.</li>
 </ol>
