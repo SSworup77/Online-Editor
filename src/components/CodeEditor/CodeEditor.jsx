@@ -6,8 +6,8 @@ import React from 'react'
 
 const CodeEditor = ({language,code, setCode,darkMode,extension}) => {
   return (
-    <div className='border border-gray-500'>
-        <h2 className='text-center bg-gray-300'>{language}</h2>
+    <div className='border border-gray-600'>
+        <h2 className='text-center bg-gray-400 font-mono'>{language}</h2>
         <CodeMirror 
         value={code}
         height='220px' 
